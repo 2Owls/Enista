@@ -5,6 +5,11 @@
  */
 
 module.exports = {
+    siteMetadata: {
+      title: `Enista`,
+      siteUrl: `https://enista.co.uk`,
+      description: `Risk.Removed.`,
+    },
   /* Your site config here */
   plugins: [],
 }
